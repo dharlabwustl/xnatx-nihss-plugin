@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Application-Name: XNAT Template1 Plugin for XNAT 1.8
+Build-Date: Mon Oct 30 01:25:26 CDT 2023
+Build-Number: Manual
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Sha: 5f6bc8bbd3
+Implementation-Sha-Full: 5f6bc8bbd3fa8df2d3ac8f82192e703ef1411b49
+Implementation-Commit: 0
+Implementation-LastTag: 5f6bc8b
+Implementation-Branch: master
+Implementation-CleanTag: false
+Implementation-Dirty: true
+
